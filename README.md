@@ -25,6 +25,6 @@ This list includes companies, large organizations, regional organizations of cou
 
 ### Google
 
-[Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
+- [Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
 
 
