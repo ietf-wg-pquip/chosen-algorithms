@@ -14,23 +14,20 @@ Use this list for national governments or departments of those governments.
 ### United States
 
 - NIST,
-[NIST to Standardize Encryption Algorithms That Can Resist Attack by Quantum Computers]
-(https://www.nist.gov/news-events/news/2023/08/nist-standardize-encryption-algorithms-can-resist-attack-quantum-computers)
+[NIST to Standardize Encryption Algorithms That Can Resist Attack by Quantum Computers](https://www.nist.gov/news-events/news/2023/08/nist-standardize-encryption-algorithms-can-resist-attack-quantum-computers)
 
 - National Security Agency,
-[Quantum Computing and Post-Quantum Cryptography]
-(https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
+[Quantum Computing and Post-Quantum Cryptography](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 
 - National Security Agency,
 [Announcing the Commercial National Security Algorithm Suite 2.0](https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF)
 
 ## Organizations
 
-This list includes copmanies, large organizations, regional organizations of countries (such as the EU).
+This list includes companies, large organizations, regional organizations of countries (such as the EU).
 
 ### Google
 
-[Protecting Chrome Traffic with Hybrid Kyber KEM]
-(https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
+- [Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
 
 
