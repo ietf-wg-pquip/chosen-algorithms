@@ -1,5 +1,8 @@
 # PQC Algorithms Chosen By Countries and Organizations
 
+This page never got much attention, and thus has been closed.
+
+<!--
 This page lists countries and organizations that have adopted particular PQC algorithms.
 The lists are *very informal*; that is, they are not vetted by the PQUIP WG or any part of the IETF.
 The purpose is to help implementers understand which algorithms they might need to support in various environments.
@@ -28,3 +31,4 @@ This list includes companies, large organizations, regional organizations of cou
 - [Protecting Chrome Traffic with Hybrid Kyber KEM](https://blog.chromium.org/2023/08/protecting-chrome-traffic-with-hybrid.html)
 
 
+-->
